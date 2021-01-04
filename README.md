@@ -1,0 +1,2 @@
+# majaslapa
+skolas mājaslapa (mācības)
