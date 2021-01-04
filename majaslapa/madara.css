@@ -1,0 +1,56 @@
+.fonts {
+  font-family: "Times New Roman", Times, serif;
+}
+
+body { 
+	background-color: #0dd969; 
+	
+	
+}
+.teksts {
+	margin: auto;
+	max-width: 900px;
+	font-size: 110%;
+	text-align: left;
+}
+
+table, th, td{
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+.tab {
+  padding: 10px;
+  text-align: left;
+}
+
+#t {
+  width: 100%;    
+  background-color: white;
+}
+
+.size {
+	font-size:130%
+}
+.augsa {
+  overflow: hidden;
+  background-color: #0aa951;
+}
+.augsa a:hover {
+  background-color: #e6ffee;
+  color: black;
+}
+  
+.augsa a {
+	display: block;
+	color: black;
+	text-align: center;
+	padding: 20px 113px;
+	text-decoration: none;
+	float: left;
+	font-size: 120%;
+}
+
+
+
+
+	
